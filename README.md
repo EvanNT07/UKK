@@ -224,5 +224,5 @@ php artisan tinker --execute="echo App\Models\User::count().' users, '.App\Model
 
 ---
 
-© 2026 PT Indonesia Solusindo — Latihan Soal UKK (Tim Web Developer: Icha & Ahnaf).
-Framework: Laravel (MIT license).
+Latihan Soal UKK (Tim Web Developer: Evan Nata Garjita).
+Framework: Laravel.
